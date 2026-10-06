@@ -50,18 +50,10 @@ Using a customized `seaborn.scatterplot`, the dataset was aggregated by brand to
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/SteaveRkt/analysis-asos-products-data.git
    ```
 2. Place your raw dataset named `products_asos.csv` inside your project directory tree.
 3. Open the Jupyter Notebook / Google Colab file and run all cells sequentially.
 
 ---
-
-##  Sample Results & Matrix Outputs
-```text
-Highest Revenue Leakage Examples:
-- Barbour Beadnell Wax Jacket       | Price: £219.0 | Stockouts: 9 | Lost Revenue: £1,971.0
-- AllSaints Elora Leather Jacket    | Price: £319.0 | Stockouts: 6 | Lost Revenue: £1,914.0
-- Topshop Premium Real Leather Coat | Price: £260.0 | Stockouts: 7 | Lost Revenue: £1,820.0
-```
 
